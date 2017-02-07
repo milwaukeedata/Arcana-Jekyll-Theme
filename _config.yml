@@ -1,4 +1,4 @@
-name: Arcana
-description: Arcana template for Jekyll
+name: HackMKE
+description: HackMKE - Milwaukee's Civic Technology Brigade
 paginate: 10
-baseurl: 'http://hackmke.com/'
+baseurl: 'http://hackmke.com'
